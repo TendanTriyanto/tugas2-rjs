@@ -15,7 +15,7 @@ function App() {
       </Routes>
       <footer className="bg-dark text-white text-center py-3">
         <div className="container">
-          <p className="mb-0">&copy; 2026 CompanyName. All rights reserved.</p>
+          <p className="mb-0">&copy; 2026 BookStore. All rights reserved.</p>
         </div>
       </footer>
     </BrowserRouter>
